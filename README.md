@@ -60,7 +60,9 @@ module jk1 (j, k, clk, rst, q);
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
+![Screenshot 2024-11-12 195129](https://github.com/user-attachments/assets/b03cbb28-9a35-4838-abce-cd9d5d8a0f70)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
